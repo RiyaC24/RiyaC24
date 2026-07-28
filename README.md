@@ -36,9 +36,6 @@ Education:
     B.Tech Computer Science & Engineering
     VIT Bhopal University
 
-CGPA:
-    8.6 / 10
-
 Location:
     India 🇮🇳
 
