@@ -81,7 +81,7 @@ Life Philosophy:
 ## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
 </p>
 
 ## ⚙ Backend
@@ -99,7 +99,7 @@ Life Philosophy:
 ## ☁ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,vercel"/>
 </p>
 
 ---
