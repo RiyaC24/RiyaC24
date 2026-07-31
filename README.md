@@ -136,15 +136,7 @@ Life Philosophy:
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RiyaC24&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
 
 ---
 
