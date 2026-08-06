@@ -154,7 +154,6 @@ Life Philosophy:
 # 🎯 Goals for 2026
 
 * 🚀 Build production-ready scalable applications
-* ☁ Master AWS Cloud Services
 * 📈 Improve System Design skills
 * 💻 Solve 500+ DSA problems
 * 🌍 Contribute to Open Source
