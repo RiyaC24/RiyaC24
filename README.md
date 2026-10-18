@@ -11,7 +11,9 @@
 <br/>
 
 <a href="https://github.com/RiyaC24">
-  <img src="https://komarev.com/ghpvc/?username=RiyaC24&style=flat" alt="Profile Views" />
+ 
+<img src="https://counter.othmaro.dev/api/views?id=RiyaC24&label=PROFILE%20VIEWS&rightColor=2563EB" alt="Profile Views" />
+
 </a>
 
 <a href="https://github.com/RiyaC24?tab=followers">
