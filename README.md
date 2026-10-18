@@ -1,8 +1,15 @@
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Building+End-to-End+Web+Applications;React+%7C+Node.js+%7C+Express.js;Java+%7C+REST+APIs+%7C+MongoDB;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FFFFFF&background=0F172AFF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Software+Developer;Building+End-to-End+Web+Applications;React+%7C+Node.js+%7C+Express.js;Java+%7C+REST+APIs+%7C+MongoDB;Turning+Ideas+Into+Working+Products" alt="Full-Stack Software Developer" />
+
+<br/>
 
 <a href="https://github.com/RiyaC24">
+  <img src="https://img.shields.io/github/followers/RiyaC24?label=GitHub%20Followers&style=for-the-badge&logo=github&color=2563EB" alt="GitHub Followers"/>
+</a>
+
+</div>
 
 </a>
 <a href="https://github.com/RiyaC24?tab=followers">
