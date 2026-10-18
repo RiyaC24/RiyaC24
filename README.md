@@ -1,7 +1,6 @@
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:60A5FA&text=Riya%20Chaubey&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=58&descSize=19&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Building+End-to-End+Web+Applications;React+%7C+Node.js+%7C+Express.js;Java+%7C+REST+APIs+%7C+MongoDB;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
 
 <a href="https://github.com/RiyaC24">
 
