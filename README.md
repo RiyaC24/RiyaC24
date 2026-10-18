@@ -1,250 +1,175 @@
-# <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E3A8A,50:2563EB,75:3B82F6,100:60A5FA&text=Riya%20Chaubey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Software%20Developer&descAlignY=58&animation=fadeIn"/>
-
-# 👋 Hi there, I'm **Riya Chaubey**
-
-### **Full Stack Developer • Backend Enthusiast • Computer Science Engineer**
-
-<p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Computer+Science+Engineer;Full+Stack+Developer;Backend+Developer;REST+API+Developer;Java+Developer;Always+Learning+New+Technologies"/>
-
-
-
-<p>
-  <a href="https://github.com/RiyaC24">
-    <img src="https://img.shields.io/github/followers/RiyaC24?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-
-
-<img src="https://komarev.com/ghpvc/?username=RiyaC24" alt="Profile Views"/>
-</p>
-
-
----
-
-# 💫 About Me
-
-```yaml
-Name:
-    Riya Chaubey
-
-Education:
-    B.Tech Computer Science & Engineering
-    VIT Bhopal University
-
-Location:
-    India 🇮🇳
-
-Interested In:
-    • Full Stack Development
-    • Backend Engineering
-    • REST APIs
-    • Cloud Computing
-    • System Design
-    
-
-Currently Working On:
-    🚀 API Monitoring System
-    🎓 FFCS-Pro
-    🛒 TUFBasket
-
-Currently Learning:
-    ☁ AWS
-    📊 System Design
-    ⚡ Advanced Backend Development
-    🧩 Data Structures & Algorithms
-
-Career Goal:
-    Software Engineer at a Product-Based Company
-
-Life Philosophy:
-    Learn.
-    Build.
-    Improve.
-    Repeat.
-```
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,javascript,typescript,python,html,css"/>
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-</p>
-
-## ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-</p>
-
-## ☁ Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,vercel"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project                      | Description                                                                                         | Tech                             |
-| ---------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 🚀 **API Monitoring System** | Monitor APIs with authentication, analytics, dashboards, logs, alerts and response tracking.        | React, Node.js, Express, MongoDB |
-| 🎓 **FFCS-Pro**              | Smart timetable generator with optimized course scheduling and conflict detection.                  | React, TypeScript, PostgreSQL    |
-| 🛒 **TUFBasket**             | Complete E-Commerce platform with authentication, admin dashboard, payments and product management. | MERN Stack                       |
-| 🌐 **Portfolio Website**     | Responsive portfolio showcasing projects, certifications and technical skills.                      | React + Tailwind                 |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RiyaC24&theme=tokyonight&hide_border=true"/> 
-
-</p>
-
-<p align="center">
-
-</p>
-
-
-
----
-
-# 📚 Certifications
-
-* 🏅 Google Business Intelligence Professional Certificate
-* 🏅 Google IT Support Professional Certificate
-* 🏅 Postman API Fundamentals Student Expert
-* 🏅 MATLAB Machine Learning Onramp
-* 🏅 MATLAB Deep Learning Onramp
-* 🏅 NPTEL Certifications
-
----
-
-# 🎯 Goals for 2026
-
-* 🚀 Build production-ready scalable applications
-* 📈 Improve System Design skills
-* 💻 Solve 500+ DSA problems
-* 🌍 Contribute to Open Source
-* 🎯 Secure a Software Engineering role at a top product company
-
----
-
-# 📈 Learning Progress
-
-```text
-Java                     ████████████████████ 95%
-
-Backend Development      ██████████████████░░ 90%
-
-Full Stack Development   █████████████████░░░ 88%
-
-REST APIs                ████████████████████ 100%
-
-MongoDB                  █████████████████░░░ 90%
-
-AWS                      ███████████░░░░░░░░░ 60%
-
-System Design            ██████████░░░░░░░░░░ 55%
-
-Data Structures          ██████████████░░░░░░ 75%
-```
-
----
-
-# 💻 Coding Profiles
-
-<p>
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="YOUR_GEEKSFORGEEKS_LINK">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODEFORCES_LINK">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://github.com/RiyaC24">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Developer Quote
-
-> **"First, solve the problem. Then, write the code."** — *John Johnson*
-
----
-
-# ☕ Fun Facts
-
-* 💙 I enjoy building full-stack applications that solve real-world problems.
-* 🌱 I believe every project is an opportunity to learn something new.
-* 🚀 Currently exploring scalable backend architectures and cloud technologies.
-* 🎯 My goal is to build software that's reliable, maintainable, and impactful.
-
----
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:60A5FA&text=Riya%20Chaubey&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=58&descSize=19&animation=fadeIn" width="100%" />
 
-### *"Code with purpose. Build with passion. Learn without limits."*
+<a href="https://github.com/RiyaC24">
+  <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
+</a>
+<a href="https://github.com/RiyaC24?tab=followers">
+  <img src="https://img.shields.io/github/followers/RiyaC24?label=FOLLOWERS&style=for-the-badge&color=1D4ED8&logo=github" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/RiyaC24?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github" alt="Repositories" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1E3A8A,50:2563EB,75:3B82F6,100:60A5FA"/>
+### Building useful products, one feature at a time.
+
+[GitHub](https://github.com/RiyaC24) •
+[LinkedIn](https://www.linkedin.com/in/riya-chaubey-712a192b5/) •
+[LeetCode](https://leetcode.com/u/RiyaCH24-/)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm Riya Chaubey, a Computer Science and Engineering student at VIT Bhopal University, interested in building practical, reliable software.
+
+- 💻 Focused on full-stack and backend development.
+- 🔧 Building REST APIs, web applications, and monitoring tools.
+- 🌱 Improving my Java, Data Structures & Algorithms, and backend engineering skills.
+- ☁️ Exploring cloud technologies and application deployment.
+- 🎯 Working toward a career as a Software Engineer.
+
+I enjoy taking an idea from development to deployment and learning by building real projects.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" alt="Java, JavaScript, TypeScript, HTML and CSS" />
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind" alt="React, Redux, Vite and Tailwind CSS" />
+
+**Backend Development**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="MongoDB, MySQL and SQLite" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel" alt="Git, GitHub, Docker, AWS, Postman and Vercel" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. API Monitor — API Monitoring Dashboard
+
+A full-stack application for managing and monitoring APIs with authentication, scheduled health checks, and dashboard analytics.
+
+**Built with:** React, Node.js, Express.js, MongoDB, JWT, node-cron
+
+- 🔐 User authentication and protected API management.
+- 📊 Dashboard for API health and monitoring statistics.
+- ⏱️ Scheduled health checks and response tracking.
+- 🏷️ API organization, search, tags, and bulk import.
+
+<div align="left">
+<a href="https://effulgent-kleicha-4c7698.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="API Monitor Live Demo" /></a>
+<a href="https://github.com/RiyaC24/api-monitor"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="API Monitor Source Code" /></a>
+</div>
+
+### 2. TUFbasket — E-Commerce Web Application
+
+A full-stack shopping application with product browsing, authentication, and a shopping and checkout experience.
+
+**Built with:** React, Redux Toolkit, Node.js, Express.js, MongoDB, JWT
+
+- 🛒 Product browsing and shopping workflows.
+- 🔐 Authentication and protected functionality.
+- 💳 INR-based checkout flow with UPI payment option.
+- ☁️ Cloudinary integration and cloud deployment.
+
+<div align="left">
+<a href="https://tu-fbasket.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="TUFbasket Live Demo" /></a>
+<a href="https://github.com/RiyaC24/TUFbasket"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TUFbasket Source Code" /></a>
+</div>
+
+### 3. Cronify — Job Scheduling & Monitoring
+
+A backend-focused application for scheduling HTTP requests and shell commands with execution tracking and reliability features.
+
+**Built with:** Node.js, Express.js, SQLite, Docker
+
+- ⚙️ Schedule HTTP and shell-command jobs.
+- 📜 Track execution history and job status.
+- 🔁 Handle retries and execution timeouts.
+- 🔔 Integrate Slack and Discord notifications.
+
+<div align="left">
+<a href="https://cronify-ap7z.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cronify Live Demo" /></a>
+<a href="https://github.com/RiyaC24/cronify"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cronify Source Code" /></a>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RiyaC24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaC24&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=RiyaC24&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- Google Business Intelligence Professional Certificate
+- NPTEL SWAYAM — Marketing Management II
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Java and Data Structures & Algorithms.
+- Building reliable backend services and REST APIs.
+- Improving application architecture and system design fundamentals.
+- Learning more about cloud deployment and scalable applications.
+- Developing and refining projects that demonstrate practical engineering skills.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building, and connecting with fellow developers.
+
+<div align="center">
+
+<a href="https://github.com/RiyaC24">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/riya-chaubey-712a192b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/RiyaCH24-/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!** ⭐
+
+*Learn continuously. Build thoughtfully. Improve every day.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:60A5FA" width="100%" />
 
 </div>
