@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:60A5FA&text=Riya%20Chaubey&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=58&descSize=19&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/RiyaC24">
- <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+
 </a>
 <a href="https://github.com/RiyaC24?tab=followers">
   <img src="https://img.shields.io/github/followers/RiyaC24?label=FOLLOWERS&style=for-the-badge&color=1D4ED8&logo=github" alt="GitHub Followers" />
