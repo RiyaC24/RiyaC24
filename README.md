@@ -19,8 +19,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=Profile+Views&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
-```
-```
+
 
 ---
 
