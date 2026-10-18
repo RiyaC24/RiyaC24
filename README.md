@@ -7,14 +7,17 @@
 <!-- Animated title with a matching blue background -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=FFFFFF&background=1D4ED8FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Software+Developer;Building+End-to-End+Web+Applications;React+%7C+Node.js+%7C+Express.js;Java+%7C+REST+APIs+%7C+MongoDB;Turning+Ideas+Into+Working+Products" alt="Full-Stack Developer Animation" />
 
+
 <br/>
 
 <a href="https://github.com/RiyaC24">
-
+  <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
 </a>
+
 <a href="https://github.com/RiyaC24?tab=followers">
   <img src="https://img.shields.io/github/followers/RiyaC24?label=FOLLOWERS&style=for-the-badge&logo=github&color=1D4ED8" alt="GitHub Followers" />
 </a>
+
 <a href="https://github.com/RiyaC24?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github" alt="Repositories" />
 </a>
