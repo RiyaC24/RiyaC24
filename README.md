@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/RiyaC24">
-  <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
+
 </a>
 <a href="https://github.com/RiyaC24?tab=followers">
   <img src="https://img.shields.io/github/followers/RiyaC24?label=FOLLOWERS&style=for-the-badge&logo=github&color=1D4ED8" alt="GitHub Followers" />
