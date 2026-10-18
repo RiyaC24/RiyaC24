@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/RiyaC24">
-  <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RiyaC24&style=flat" alt="Profile Views" />
 </a>
 
 <a href="https://github.com/RiyaC24?tab=followers">
