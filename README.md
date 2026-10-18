@@ -17,7 +17,8 @@
     <img src="https://img.shields.io/github/followers/RiyaC24?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=Profile+Views&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=RiyaC24" alt="Profile Views"/>
 </p>
 
 
