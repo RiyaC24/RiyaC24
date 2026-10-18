@@ -11,12 +11,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Computer+Science+Engineer;Full+Stack+Developer;Backend+Developer;REST+API+Developer;Java+Developer;Always+Learning+New+Technologies"/>
 
 
+
 <p>
   <a href="https://github.com/RiyaC24">
     <img src="https://img.shields.io/github/followers/RiyaC24?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=Profile%20Views&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+  <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=Profile+Views&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
+```
 ```
 
 ---
