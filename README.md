@@ -13,13 +13,10 @@
 </p>
 
 <p>
-
-<a href="https://github.com/RiyaC24">
-<img src="https://img.shields.io/github/followers/RiyaC24?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=RiyaC24&style=for-the-badge&color=blue"/>
-
+  <a href="https://github.com/RiyaC24">
+    <img src="https://img.shields.io/github/followers/RiyaC24?style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RiyaC24&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 </div>
