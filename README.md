@@ -1,33 +1,46 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FFFFFF&background=0F172AFF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Software+Developer;Building+End-to-End+Web+Applications;React+%7C+Node.js+%7C+Express.js;Java+%7C+REST+APIs+%7C+MongoDB;Turning+Ideas+Into+Working+Products" alt="Full-Stack Software Developer" />
+<!-- Blue gradient profile header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1120,35:1D4ED8,70:2563EB,100:60A5FA&text=Riya%20Chaubey&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=FULL-STACK%20SOFTWARE%20DEVELOPER&descSize=19&descAlignY=57&animation=fadeIn" width="100%" alt="Riya Chaubey - Full-Stack Software Developer" />
+
+<!-- Animated title with a matching blue background -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=FFFFFF&background=1D4ED8FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Software+Developer;Building+End-to-End+Web+Applications;React+%7C+Node.js+%7C+Express.js;Java+%7C+REST+APIs+%7C+MongoDB;Turning+Ideas+Into+Working+Products" alt="Full-Stack Developer Animation" />
 
 <br/>
 
 <a href="https://github.com/RiyaC24">
-  <img src="https://img.shields.io/github/followers/RiyaC24?label=GitHub%20Followers&style=for-the-badge&logo=github&color=2563EB" alt="GitHub Followers"/>
-</a>
-
-</div>
-
+  <img src="https://komarev.com/ghpvc/?username=RiyaC24&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
 </a>
 <a href="https://github.com/RiyaC24?tab=followers">
-  <img src="https://img.shields.io/github/followers/RiyaC24?label=FOLLOWERS&style=for-the-badge&color=1D4ED8&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/RiyaC24?label=FOLLOWERS&style=for-the-badge&logo=github&color=1D4ED8" alt="GitHub Followers" />
 </a>
 <a href="https://github.com/RiyaC24?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github" alt="Repositories" />
 </a>
 
-### Building useful products, one feature at a time.
+<br/><br/>
 
-[GitHub](https://github.com/RiyaC24) •
-[LinkedIn](https://www.linkedin.com/in/riya-chaubey-712a192b5/) •
-[LeetCode](https://leetcode.com/u/RiyaCH24-/)
+**Computer Science & Engineering Student @ VIT Bhopal University**
+
+Building modern web applications with clean interfaces, reliable APIs, and practical backend solutions.
+
+<br/>
+
+<a href="https://github.com/RiyaC24">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/riya-chaubey-712a192b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/RiyaCH24-/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
 
 </div>
 
 ---
+
 
 ## 👩‍💻 About Me
 
