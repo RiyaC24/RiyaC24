@@ -149,10 +149,7 @@ A backend-focused application for scheduling HTTP requests and shell commands wi
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaC24&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=RiyaC24&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
 </div>
-
 ---
 
 ## 📜 Certifications
